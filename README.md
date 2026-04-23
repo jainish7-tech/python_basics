@@ -35,9 +35,9 @@ I’m currently practicing Python to build strong programming fundamentals and i
 | --------------- | -------------- | --------------- |
 | Variables       | ✅ Completed    | ██████████ 100% |
 | Data Types      | ✅ Completed    | ██████████ 100% |
-| Operators       | 🔄 In Progress | ███████░░░ 70%  |
-| String Handling | 🔄 In Progress | ██████░░░░ 60%  |
-| If-Else         | ⏳ Pending      | ███░░░░░░░ 30%  |
+| Operators       | ✅ Completed    | ██████████ 100% |
+| String Handling | ✅ Completed    | ██████████ 100% |
+| If-Else         | ✅ Completed    | ██████████ 100% |
 
 ---
 
